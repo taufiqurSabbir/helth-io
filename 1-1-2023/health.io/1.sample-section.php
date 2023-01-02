@@ -1,0 +1,12 @@
+<?php
+
+echo <<< READ
+
+
+
+
+
+READ;
+
+
+?>
